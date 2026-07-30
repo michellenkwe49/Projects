@@ -1,0 +1,20 @@
+# Data Manipulation and Mathematics
+pandas
+numpy
+
+# Visualization
+plotly
+matplotlib
+
+# Web Dashboard
+streamlit
+
+# Machine Learning
+scikit-learn
+
+# Security and Encryption
+bcrypt
+
+# Reporting and Exports
+fpdf
+xlsxwriter
